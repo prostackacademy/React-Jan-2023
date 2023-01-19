@@ -1,5 +1,4 @@
 import ReactDOM from 'react-dom'
 import App from './App'
-
-ReactDOM.render(<App />, document.getElementById('vali'))
-//ReactDOM.render("Hello", document.getElementById('vali'))
+//import '../node_modules/bootstrap/dist/css/bootstrap.css'
+ReactDOM.render(<App />, document.getElementById('root'));

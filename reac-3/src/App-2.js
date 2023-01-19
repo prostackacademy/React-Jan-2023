@@ -5,7 +5,8 @@ import Actor from './components/Actor'
 function App() {
     return <>
         <Navbar />
-
+        <h1>App Component</h1>
+        <hr />
         <Actor />
 
 
